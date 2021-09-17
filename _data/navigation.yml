@@ -14,41 +14,49 @@
 - title: Osakunta
   url: /osakunta/
   sublinks:
-    - title: Yleistietoa
-      url: /osakunta/
+    - title: Historia
+      url: /osakunta/historia
+    - title: Tunnukset
+      url: /osakunta/tunnukset
+    - title: Säännöt
+      url: /osakunta/saannot
+    - title: Hallinto & virkojen kuvaukset
+      url: /osakunta/hallinto-ja-virkojen-kuvaukset
+    - title: Virkailijaohjeet
+      url: /osakunta/virkailijaohjeet
     - title: Susj
       url: /osakunta/susj
-    - title: historia
-    - title: ystävyysjärjestöt
-    - title: tunnukset
-    - title: Säännöt
-    - title: TTIP
-    - title: Hallinto & virkojen kuvaukset
-    - title: Savo Shop
-    - title: Tilat
-    - title: Sennut
-    - title: Virkailijaohjeet
+    - title: Savo-shop
+      url: /osakunta/savo-shop
+    - title: Ystävyysjärjestöt
+      url: /osakunta/ystavyysjarjestot
 
-- title: Toiminta
-  url: /toiminta/
+- title: Tapahtumat
+  url: /tapahtumat/
   sublinks:
-    - title: Tapahtumat & Tilakalenteri
+    - title: Tilakalenteri + osakuntaillat + Tapahtumakuvaukset + Pukukoodi
+      url: /tapahtumat/tapahtumat
     - title: Kerhot
-    - title: Osakuntaillat
+      url: /tapahtumat/kerhot
     - title: Kokoukset
-    - title: Tapahtumakuvaukset
-    - title: Pukukoodi
+      url: /tapahtumat/kokoukset
+    - title: Tilat
+      url: /tapahtumat/tilat
+    - title: Turvallisemman tilan periaatteet
+      url: /tapahtumat/TTIP
 
 - title: Asunnot
   url: /asunnot/
   sublinks:
     - title: Asuntolayhteystiedot
+      url: /asunnot/yhteystiedot
     - title: Asukasinfo
-    - title: AKT
-    - title: RLT
-    - title: MPT
+      url: /asunnot/asukasinfo
     - title: Hakuohjeet
-    - title: UKK
+      url: /asunnot/hakuohjeet
 
 - title: Yhteystiedot
   url: /yhteystiedot/
+  sublinks:
+    - title: Sennut
+      url: /yhteystiedot/sennut
