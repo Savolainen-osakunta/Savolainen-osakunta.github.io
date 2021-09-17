@@ -1,16 +1,6 @@
 - title: Home
   url: /
 
-- title: Tule mukaan!
-  url: /tule-mukaan/
-  sublinks:
-    - title: Mikä osakunta on?
-      url: /tule-mukaan/mika-osakunta
-    - title: Liittymisohjeet
-      url: /tule-mukaan/liittymisohjeet
-    - title: Jäsenedut
-      url: /tule-mukaan/jasenedut
-
 - title: Osakunta
   url: /osakunta/
   sublinks:
@@ -30,6 +20,16 @@
       url: /osakunta/savo-shop
     - title: Ystävyysjärjestöt
       url: /osakunta/ystavyysjarjestot
+
+- title: Tule mukaan!
+  url: /tule-mukaan/
+  sublinks:
+    - title: Mikä osakunta on?
+      url: /tule-mukaan/mika-osakunta
+    - title: Liittymisohjeet
+      url: /tule-mukaan/liittymisohjeet
+    - title: Jäsenedut
+      url: /tule-mukaan/jasenedut
 
 - title: Tapahtumat
   url: /tapahtumat/

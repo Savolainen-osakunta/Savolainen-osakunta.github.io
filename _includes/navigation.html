@@ -15,7 +15,7 @@
 <!-- Then we build the nav bar. -->
 <nav class="navbar navbar-expand-sm navbar-light bg-light">
     <div class="collapse navbar-collapse">
-        <ul class="navbar-nav mx-auto">
+        <ul class="navbar-nav mx-auto align-items-center">
         {% for entry in site.data.navigation %}
             {% if entry.url contains current_page %}
                 {% assign current = ' active' %}
@@ -26,7 +26,15 @@
             <li class="nav-item {{ current }}">
                 <a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
             </li>
-        {% endfor %}
+            {% endfor %}
         </ul>
+        <div class="nav-item social-media align-middle me-4">
+            <a href="https://www.facebook.com/savolaiset/" class="me-4 text-reset">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+            <a href="https://www.instagram.com/savolainenosakunta" class="text-reset">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </div>
     </div>
 </nav>
