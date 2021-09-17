@@ -1,1 +1,18 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+html {
+  background-color: black;
+}
+
+body {
+  background-color: white;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+footer .social-media a {
+  text-decoration: none;
+}
