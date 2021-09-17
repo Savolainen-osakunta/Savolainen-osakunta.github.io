@@ -6,17 +6,19 @@ html {
 
 body {
   background-color: white;
+  
+  .serif {
+    font-family: 'Times New Roman', Times, serif;
+  }
 }
 
 footer {
   background-color: black;
   color: white;
-}
 
-footer .social-media a {
-  text-decoration: none;
-}
-
-.serif {
-  font-family: 'Times New Roman', Times, serif;
+  .social-media {
+    a {
+      text-decoration: none;
+    }
+  }
 }
