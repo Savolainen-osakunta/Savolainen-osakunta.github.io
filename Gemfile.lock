@@ -274,6 +274,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-paginate
+  jekyll-seo-tag
+  minima
 
 BUNDLED WITH
-   2.1.4
+   2.2.24
