@@ -1,1 +1,4 @@
-Päevöö muailma
+- Someupotukset
+- Tapahtumakalenteri
+- Tulevat tapahtumat
+- Pieni esittelyteksti

@@ -1,12 +1,54 @@
 - title: Home
   url: /
 
-- title: Group of Things
-  url: /group/
+- title: Tule mukaan!
+  url: /tule-mukaan/
   sublinks:
-    - title: Sub-item 1
-      url: /group/si1
-    - title: Sub-item 2
-      url: /group/si2
-    - title: Sub-item 3
-      url: /group/si3
+    - title: Mikä osakunta on?
+      url: /tule-mukaan/mika-osakunta
+    - title: Liittymisohjeet
+      url: /tule-mukaan/liittymisohjeet
+    - title: Jäsenedut
+      url: /tule-mukaan/jasenedut
+
+- title: Osakunta
+  url: /osakunta/
+  sublinks:
+    - title: Yleistietoa
+      url: /osakunta/
+    - title: Susj
+      url: /osakunta/susj
+    - title: historia
+    - title: ystävyysjärjestöt
+    - title: tunnukset
+    - title: Säännöt
+    - title: TTIP
+    - title: Hallinto & virkojen kuvaukset
+    - title: Savo Shop
+    - title: Tilat
+    - title: Sennut
+    - title: Virkailijaohjeet
+
+- title: Toiminta
+  url: /toiminta/
+  sublinks:
+    - title: Tapahtumat & Tilakalenteri
+    - title: Kerhot
+    - title: Osakuntaillat
+    - title: Kokoukset
+    - title: Tapahtumakuvaukset
+    - title: Pukukoodi
+
+- title: Asunnot
+  url: /asunnot/
+  sublinks:
+    - title: Asuntolayhteystiedot
+    - title: Asukasinfo
+    - title: AKT
+    - title: RLT
+    - title: MPT
+    - title: Hakuohjeet
+    - title: UKK
+
+- title: Yhteystiedot
+  url: /yhteystiedot/
