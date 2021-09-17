@@ -3,6 +3,15 @@ theme: jekyll-theme-cayman
 sass:
   style: compressed
 
+include:
+- '_pages'
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+permalink: pretty
+
 exclude:
 - 'node_modules'
 - 'package.json'
