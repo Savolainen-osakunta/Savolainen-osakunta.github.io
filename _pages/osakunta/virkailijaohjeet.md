@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Säännöt
+title: Virkailijaohjeet
 contentClass: serif
 ---
 
