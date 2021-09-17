@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+
+sass:
+  style: compressed
+
+exclude:
+- 'node_modules'
+- 'package.json'
+- 'package-lock.json'
+- 'vendor'
+- 'default.nix'
+- 'Gemfile'
+- 'Gemfile.lock'
+- 'gemset.nix'
+- 'README.md'
