@@ -6,15 +6,23 @@ html {
 
 body {
   background-color: white;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   
   .serif {
     font-family: 'Times New Roman', Times, serif;
   }
 }
 
+section.content {
+    flex: 1;
+}
+
 footer {
   background-color: black;
   color: white;
+  margin-top: auto;
 
   .social-media {
     a {
