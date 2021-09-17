@@ -5,6 +5,8 @@ sass:
 
 include:
 - '_pages'
+- '_pages/asunnot'
+- '_pages/osakunta'
 collections:
   pages:
     output: true
