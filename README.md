@@ -1,5 +1,7 @@
 # Savolaisen osakunnan nettisivut – Github pages edition
 
+See live at http://savolainen-osakunta.github.io.
+
 ## How to test locally
 
 Easy way (atm).
