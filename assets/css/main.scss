@@ -10,3 +10,9 @@
   margin: 0 auto;
 }
 
+nav {
+  padding-left: .5rem;
+  img {
+    height: $nav-link-height;
+  }
+}
