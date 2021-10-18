@@ -13,13 +13,17 @@
 {% endfor %}
 
 <!-- Then we build the nav bar. -->
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark text-light">
-    <a class="navbar-brand align-middle" href="/">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark text-light">
+    <label for="menu-toggle" class="navbar-toggler" type="button" data-toggle="expand" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </label>
+    <a class="navbar-brand" href="/">
         <img src="/assets/images/savo_logo bow_and_arrow.svg" alt="Savolaisen osakunnan tunnus" />
         Savolainen osakunta
     </a>
-    <div class="collapse navbar-collapse">
-        <ul class="navbar-nav mx-auto align-items-center">
+    <input type="checkbox" id="menu-toggle" class="hidden" />
+    <div class="expand navbar-nav navbar-expand" id="navbarNav" role="navigation">
+        <ul class="nav text-light nav-fill">
         {% for entry in site.data.navigation %}
             {% if entry.url contains current_page %}
                 {% assign current = ' active' %}
@@ -31,14 +35,14 @@
                 <a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
             </li>
             {% endfor %}
+            <li class="nav-item social-media col-auto">
+                <a href="https://www.facebook.com/savolaiset/" class="me-2 text-reset" aria-label="Facebook.com – Savolainen osakunta">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+                <a href="https://www.instagram.com/savolainenosakunta" class="text-reset me-2" aria-label="Instagram – Savolainen osakunta">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </li>
         </ul>
-        <div class="nav-item social-media align-middle me-4">
-            <a href="https://www.facebook.com/savolaiset/" class="me-4 text-reset">
-                <i class="fab fa-facebook-f"></i>
-            </a>
-            <a href="https://www.instagram.com/savolainenosakunta" class="text-reset">
-                <i class="fab fa-instagram"></i>
-            </a>
-        </div>
     </div>
 </nav>

@@ -4,15 +4,13 @@
 ---
 
 @import "site";
+@import "nav";
 
 .content {
-  width: 45rem;
+  width: 100%;
   margin: 0 auto;
 }
 
-nav {
-  padding-left: .5rem;
-  img {
-    height: $nav-link-height;
-  }
+.hidden {
+  display: none;
 }
