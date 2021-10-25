@@ -1,50 +1,87 @@
 
 nav {
-  #navbarNav {
-    width: 100%;
-    max-width: 800px;
-    margin: auto;
-  }
   padding-left: .5rem;
+  padding-right: .5rem;
   img {
     height: $nav-link-height;
     max-width: 15%;
   }
-  .navbar-brand {
-    margin: auto;
-    padding-right: 3rem;
-    max-width: 80vw;
-
-    @media screen and (min-width: 768px) {
-      margin-right: .5rem;
+  @media screen and (max-width: 767px) {
+    #menu-toggle:not(:checked) + .navbar-nav {
+      display: none;
     }
-  }
-  .nav-item {
-    margin-right: .2rem;
-  }
-  .nav-link {
-    color: rgba(255,255,255,0.75);
-    padding-right: .3rem;
-    padding-left: .3rem;
-    text-align: left;
   }
   .navbar-toggler {
     border: none;
     padding: .25rem .5rem;
   }
-  .social-media {
-    margin-top: auto;
-    margin-bottom: auto;
-    flex-grow: 10;
-    margin-right: 20px;
-    &.nav-item {
-      text-align: end;
+  .navbar-brand {
+    margin: auto;
+    padding-right: 3rem;
+    max-width: 80vw;
+  }
+  .navbar-nav {
+    width: 100%;
+    .nav {
+      justify-content: flex-start;
+      width: 100%;
+      .nav-item {
+        a {
+          margin-right: .2rem;
+        }
+      }
+      .nav-link {
+        color: rgba(255,255,255,0.75);
+        padding-right: .3rem;
+        padding-left: .3rem;
+        text-align: left;
+      }
+      .social-media {
+        margin-top: auto;
+        margin-bottom: auto;
+        flex-grow: 10;
+        &.nav-item {
+          text-align: end;
+          align-self: flex-end;
+        }
+      }
     }
   }
 }
 
-@media screen and (max-width: 768px) {
-  #menu-toggle:not(:checked) + .navbar-nav {
-    display: none;
+@media screen and (min-width: 768px) {
+  nav {
+    .navbar-brand {
+      margin: 0;
+      margin-right: .5rem;
+      padding-right: 0;
+      min-width: 240px;
+    }
+    .navbar-nav {
+      margin: auto;
+      flex-wrap: nowrap;
+      white-space: nowrap;
+      .nav {
+        min-width: calc(100% - 230px);
+        justify-content: center;
+        .nav-item {
+          align-items: center;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: calc(768px + 260px)) {
+  nav {
+    .navbar-nav {
+      padding-right: 240px;
+      .nav {
+        .social-media {
+          flex-grow: unset;
+          margin-left: 16px;
+        }
+      }
+    }
   }
 }

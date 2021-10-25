@@ -1,6 +1,3 @@
-- title: Home
-  url: /
-
 - title: Osakunta
   url: /osakunta/
   sublinks:
@@ -35,7 +32,7 @@
   url: /tapahtumat/
   sublinks:
     - title: Tilakalenteri + osakuntaillat + Tapahtumakuvaukset + Pukukoodi
-      url: /tapahtumat/tapahtumat
+      url: /tapahtumat/info
     - title: Kerhot
       url: /tapahtumat/kerhot
     - title: Kokoukset
