@@ -14,7 +14,7 @@
 
 <!-- Then we build the nav bar. -->
 <nav class="navbar navbar-expand-md navbar-dark bg-dark text-light">
-    <label for="menu-toggle" class="navbar-toggler" type="button" data-toggle="expand" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <label for="menu-toggle" class="navbar-toggler" type="button" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </label>
     <a class="navbar-brand" href="/">
@@ -22,8 +22,8 @@
         Savolainen osakunta
     </a>
     <input type="checkbox" id="menu-toggle" class="hidden" />
-    <div class="expand navbar-nav navbar-expand" id="navbarNav" role="navigation">
-        <ul class="nav text-light nav-fill">
+    <div class="expand navbar-nav navbar-expand" role="navigation">
+        <ul class="nav text-light">
         {% for entry in site.data.navigation %}
             {% if entry.url contains current_page %}
                 {% assign current = ' active' %}

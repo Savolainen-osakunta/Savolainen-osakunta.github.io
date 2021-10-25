@@ -9,6 +9,10 @@
 .content {
   width: 100%;
   margin: 0 auto;
+  @media screen and (min-width: 768px) {
+    max-width: 960px;
+    margin: auto;
+  }
 }
 
 .hidden {
