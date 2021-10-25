@@ -1,5 +1,5 @@
 - title: Osakunta
-  url: /osakunta/
+  url: /osakunta
   sublinks:
     - title: Historia
       url: /osakunta/historia
@@ -19,7 +19,7 @@
       url: /osakunta/ystavyysjarjestot
 
 - title: Tule mukaan!
-  url: /tule-mukaan/
+  url: /tule-mukaan
   sublinks:
     - title: Mikä osakunta on?
       url: /tule-mukaan/mika-osakunta
@@ -29,7 +29,7 @@
       url: /tule-mukaan/jasenedut
 
 - title: Tapahtumat
-  url: /tapahtumat/
+  url: /tapahtumat
   sublinks:
     - title: Tilakalenteri + osakuntaillat + Tapahtumakuvaukset + Pukukoodi
       url: /tapahtumat/info
@@ -43,7 +43,7 @@
       url: /tapahtumat/TTIP
 
 - title: Asunnot
-  url: /asunnot/
+  url: /asunnot
   sublinks:
     - title: Asuntolayhteystiedot
       url: /asunnot/yhteystiedot
@@ -53,7 +53,7 @@
       url: /asunnot/hakuohjeet
 
 - title: Yhteystiedot
-  url: /yhteystiedot/
+  url: /yhteystiedot
   sublinks:
     - title: Sennut
       url: /yhteystiedot/sennut
