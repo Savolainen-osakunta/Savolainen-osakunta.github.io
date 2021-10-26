@@ -7,6 +7,6 @@ title: Mitä tapahtumia Savolla on?
 
 TODO: write content.
 
-### Tilakalenteri + osakuntaillat + Tapahtumakuvaukset + Pukukoodi
+### Osakuntaillat, Tapahtumakuvaukset, Pukukoodi jne.
 
 TODO: write content.
