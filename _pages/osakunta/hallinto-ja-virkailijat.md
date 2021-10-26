@@ -29,4 +29,4 @@ Ohjesäännöissä neuvostoa koskevat pykälät A1, A5, A7, A25, A26, A27, B1, B
 TODO: CONTENT
 
 * [Viranhaltijat 2021](/osakunta/viranhaltijat)
-* [Virkailijaohjeset](/osakunta/virkailijaohjeet)
+* [Virkailijaohjesääntö](/osakunta/virkailijaohjesaanto)

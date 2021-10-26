@@ -1,8 +1,8 @@
 ---
 layout: default
-title: SavO-shop
+title: Jäsenedut
 ---
 
-## SavO-shop
+## Jäsenedut
 
 TODO: write content.
