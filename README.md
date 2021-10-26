@@ -17,3 +17,7 @@ Alternatively:
 2. `bundle install --path vendor/bundle`
 3. `bundle exec jekyll serve`
 4. Open <http://127.0.0.1:4000>
+
+## Contributing
+
+Add/modify content under the `_pages` directory.

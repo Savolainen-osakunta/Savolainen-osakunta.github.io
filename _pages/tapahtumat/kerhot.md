@@ -1,8 +1,8 @@
 ---
 layout: default
-title: SavO-shop
+title: Kerhot
 ---
 
-## SavO-shop
+## Kerhot
 
 TODO: write content.

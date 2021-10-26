@@ -1,8 +1,8 @@
 ---
 layout: default
-title: SavO-shop
+title: Susj
 ---
 
-## SavO-shop
+## Susj
 
 TODO: write content.

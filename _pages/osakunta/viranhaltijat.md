@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hallinto
+title: Viranhaltijat
 ---
 
 ## Vuoden 2021 viranhaltijat

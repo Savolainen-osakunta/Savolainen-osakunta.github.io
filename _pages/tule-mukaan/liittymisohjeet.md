@@ -1,8 +1,8 @@
 ---
 layout: default
-title: SavO-shop
+title: Liittymisohjeet
 ---
 
-## SavO-shop
+## Liittymisohjeet
 
 TODO: write content.

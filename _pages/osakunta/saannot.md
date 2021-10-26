@@ -4,6 +4,17 @@ title: Säännöt
 contentClass: serif
 ---
 
+## Säännöt
+
+Tällä sivulla on Helsingin yliopiston Savolaisen osakunnan säännöt.
+Muita Savolaisen osakunnan sääntöjä ovat:
+* [Asuntolatoimikunnan ohjesääntö](/osakunta/asuntolatoimikunnan-ohjesaanto)
+* [Huoneisto-ohjesääntö](/osakunta/huoneisto-ohjesaanto)
+* [Kerho-ohjesääntö](/osakunta/kerho-ohjesaanto)
+* [Nauha- ja merkkiohjesääntö](/osakunta/nauha-ja-merkkiohjesaanto)
+* [Talousohjesääntö](/osakunta/talousohjesaanto)
+* [Virkailijaohjesääntö](/osakunta/virkailijaohjesaanto)
+
 ## Helsingin yliopiston Savolaisen osakunnan säännöt
 
 * Sisältö
@@ -11,17 +22,17 @@ contentClass: serif
 
 Nämä sääntöjenmuutosjärjestyksen mukaisesti osakunnan peräkkäisissä kokouksissa 2.11.2020 ja 7.12.2020 hyväksytyt ja Helsingin yliopiston rehtorin vahvistamat säännöt astuvat voimaan rehtorin vahvistamispäätöksessä määrättynä ajankohtana ja korvaavat aiemmin voimassa olleet Savolaisen osakunnan säännöt.
 
-## I Osakunnan tarkoitus
+### I Osakunnan tarkoitus
 
 1 § Savolaisen osakunnan tarkoitus on olla savolaisten opiskelijoiden yhdysside, ylläpitää yhteyksiä maakuntaan, edistää jäsentensä sosiaalisia oloja, yhteiskunnallisia ja henkisiä pyrintöjä sekä monipuolista ja kehittävää harrastustoimintaa.
 
-## II Osakunnan alue
+### II Osakunnan alue
 
 2 § Osakunnan kanta-alue on se alue, jonka 1.1.2003 muodostivat seuraavat kunnat ja kaupungit:
 
 Enonkoski, Haukivuori, Heinävesi, Hirvensalmi, Iisalmi, Joroinen, Juankoski, Juva, Jäppilä, Kaavi, Kangaslampi, Kangasniemi, Karttula, Keitele, Kerimäki, Kiuruvesi, Kuopio, Lapinlahti, Leppävirta, Maaninka, Mikkeli, Mäntyharju, Nilsiä, Pieksämäki, Pieksämäen mlk, Pielavesi, Punkaharju, Puumala, Rantasalmi, Rautalampi, Rautavaara, Ristiina, Savitaipale, Savonlinna, Savonranta, Siilinjärvi, Sonkajärvi, Sulkava, Suomenniemi, Suonenjoki, Tervo, Tuusniemi, Varkaus, Varpaisjärvi, Vehmersalmi, Vesanto, Vieremä ja Virtasalmi.
 
-## III Osakunnan jäsenet
+### III Osakunnan jäsenet
 
 3 § Osakunnan jäseniä ovat varsinaiset jäsenet ja ulkojäsenet. Äänioikeus osakunnan kokouksissa on kaikilla osakunnan jäsenillä. Osakunnan jäsen on vaalikelpoinen kaikkiin osakunnan virkoihin, ellei näissä säännöissä toisin määrätä.
 
@@ -46,7 +57,7 @@ Osakunnan entisellä jäsenellä on oikeus olla läsnä osakunnan kokouksissa ja
 
 Entisiä jäseniä eivät ole osakunnasta eronneet.
 
-## IV Inspehtori
+### IV Inspehtori
 
 11 § Osakunnalla on inspehtori, jonka tulee olla Helsingin yliopiston toistaiseksi voimassaolevaan työsuhteeseen otettu professori.
 
@@ -59,7 +70,7 @@ Vaalin tulos on ilmoitettava yliopiston rehtorille.
 
 Jos inspehtori on pitkähkön aikaa estynyt hoitamasta tehtäväänsä, valitaan virkaa toimittava inspehtori edellä määrätyssä järjestyksessä.
 
-## V Kuraattori
+### V Kuraattori
 
 13 § Osakunnalla on kuraattori, jonka tulee olla osakunnan toimintaan hyvin perehtynyt, ylemmän korkeakoulututkinnon suorittanut nykyinen tai entinen varsinainen jäsen. Erityisistä syistä voidaan kuraattoriksi valita osakunnan toimintaan hyvin perehtynyt muu varsinainen jäsen tai entinen varsinainen jäsen.
 
@@ -73,7 +84,7 @@ Vaalin tulos on ilmoitettava yliopiston rehtorille.
 
 Kuraattorin erotessa kesken toimikauttaan on valittava virkaa toimittava kuraattori jäljellä olevaksi toimikaudeksi.
 
-## VI Osakunnan kokoukset
+### VI Osakunnan kokoukset
 
 15 § Ylin päätösvalta osakunnan asioissa on osakunnan kokouksella.
 
@@ -150,7 +161,7 @@ Kevätlukukauden viimeisen varsinaisen kokouksen pöytäkirjaa tarkastamaan vali
 
 31 § Osakunnan päätöstä älköön samalla lukukaudella muutettako, ellei kahden kolmasosan ääntenenemmistö kannata tehtyä muutosehdotusta. Kuitenkin voi osakunta muuttaa samalla lukukaudella tekemänsä päätöksen tavallisessa päätöksentekojärjestyksessä, jos ehdotus päätöksen muuttamisesta tehdään yliopiston viranomaisen tai ylioppilaskunnan taholta.
 
-## VII Osakuntaneuvosto
+### VII Osakuntaneuvosto
 
 32 § Osakunnan yleistä hallintoa hoitaa ja toimintaa valvoo hallituksena toimiva osakuntaneuvosto.
 
@@ -186,7 +197,7 @@ Pöytäkirja tarkastetaan osakuntaneuvoston seuraavassa kokouksessa. Vuoden viim
 
 38 § Osakunnan kokouksissa voidaan osakuntaneuvostolle esittää sen toimialaan kuuluvia kysymyksiä, joihin kuraattorin tai osakuntaneuvoston jäsenen on vastattava viimeistään seuraavassa osakunnan kokouksessa.
 
-## VIII Virkailijat ja toimikunnat
+### VIII Virkailijat ja toimikunnat
 
 39 § Varsinaiset virkailijat
 
@@ -293,7 +304,7 @@ Lautakunnan toimikausi on yksi kalenterivuosi.
 57 § Osakunnan kokous ja osakuntaneuvosto voivat tarvittaessa perustaa muita toimikuntia.
 Virkailijat voivat kutsua avukseen muita toimikuntia siten kuin virkailijaohjesäännössä määrätään. Tällöin kyseinen virkailija toimii toimikunnan puheenjohtajana.
 
-## IX Osakunnan talous
+### IX Osakunnan talous
 
 58 § Osakunnan tilikausi on kalenterivuosi.
 
@@ -311,7 +322,7 @@ Talousarvion ulkopuolisia rahastoja ovat juhlarahasto ja isännän kassa. Tarvit
 
 64 § Osakunnan taloudesta sekä juhlarahaston, isännän kassan ja muiden rahastojen käytöstä säädetään tarkemmin talousohjesäännössä.
 
-## X Osakuntanauha, arvomerkit sekä kunnian- ja tunnustuksen osoitukset
+### X Osakuntanauha, arvomerkit sekä kunnian- ja tunnustuksen osoitukset
 
 65 § Osakuntanauhan ja pienoismerkin värit ovat Savon värit keltainen ja musta.
 
@@ -363,7 +374,7 @@ Elleivät erityiset syyt sitä vaadi, älköön merkkejä jaettako kerrallaan ko
 
 78 § Osakunta voi jakaa myös muita palkintoja tai stipendejä osakunnan hyväksi tehdystä työstä sekä ansioista kulttuurin, urheilun tai tieteen saralla. Palkintojen ja stipendien myöntämisestä säädetään tarkemmin nauha- ja merkkiohjesäännössä.
 
-## XI Erinäisiä säädöksiä
+### XI Erinäisiä säädöksiä
 
 79 § Kerhot
 
@@ -393,7 +404,7 @@ Ystävyyssopimuksen ehdottamisesta tai hyväksymisestä päätetään osakunnan 
 
 Osakunnan arkistossa säilytetään osakunnan toimintaan liittyviä asiakirjoja. Osakunnan kirjastoon kuuluvat kaikki sitä varten hankitut ja saadut teokset. Arkistosta ja kirjastosta voidaan lainata aineistoa osakunnan jäsenille.
 
-## XII Sääntöjen ja ohjesääntöjen vahvistaminen
+### XII Sääntöjen ja ohjesääntöjen vahvistaminen
 
 85 § Muutokset tai lisäykset näihin sääntöihin on tehtävä kahden kolmasosan enemmistöllä annetuista äänistä kahdessa peräkkäisessä osakunnan kokouksessa.
 Muutokset ja lisäykset vahvistaa Helsingin yliopiston rehtori.
