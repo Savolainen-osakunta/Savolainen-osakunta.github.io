@@ -1,0 +1,10 @@
+footer {
+  margin-top: auto;
+  a {
+    margin-bottom: 1rem;
+    color: #a3a3a3;
+    &:hover, &:focus {
+      color: #6d6d6d;
+    }
+  }
+}

@@ -23,24 +23,24 @@ Mannerheimintie 5 A, 6. krs
 
 ### Osakunnan yleiset asiat
 
-Yleisissä osakuntaa koskevissa asioissa voit ottaa yhteyttä kuraattoriin: savo-kuraattori(ät)helsinki.fi, toiminnanjohtajaan: savo-toiminnanjohtaja(ät)helsinki.fi tai osakuntaneuvostoon savo-neuvosto(ät)helsinki.fi.
-Kutsut vastaanottaa osakunnan sihteeri osoitteessa savo-sihteeri(ät)helsinki.fi.
-International invitations to savo-amici(ät)helsinki.fi.
+Yleisissä osakuntaa koskevissa asioissa voit ottaa yhteyttä kuraattoriin: [kuraattori@savolainenosakunta.fi](mailto:kuraattori@savolainenosakunta.fi), toiminnanjohtajaan: [toiminnanjohtaja@savolainenosakunta.fi](mailto:toiminnanjohtaja@savolainenosakunta.fi) tai osakuntaneuvostoon [neuvosto@savolainenosakunta.fi](mailto:neuvosto@savolainenosakunta.fi).
+Kutsut vastaanottaa osakunnan sihteeri osoitteessa [sihteeri@savolainenosakunta.fi](mailto:sihteeri@savolainenosakunta.fi).
+International invitations to [amici@savolainenosakunta.fi](mailto:amici@savolainenosakunta.fi).
 
 ### Virkailijoiden ja kerhojen yhteystiedot
 
 Kaipaatko tietoa sählyvuorojen ajankohdasta vai olisiko sinulla oiva idea osakuntaillaksi?
 
-Osakunnan arkea pyörittävillä virkailijoilla on omia vastuualueitaan, heidän yhteystietonsa löydät virkailijat-sivulta.
+Osakunnan arkea pyörittävillä virkailijoilla on omia vastuualueitaan, heidän yhteystietonsa löydät [virkailijat-sivulta](/osakunta/virkailijat).
 
-Osakunnan kerhojen yhteystietoja voit tiedustella toiminnanjohtajalta.
+Osakunnan kerhojen yhteystietoja voit tiedustella [toiminnanjohtajalta](mailto:toiminnanjohtaja@savolainenosakunta.fi).
 
 ### Internet-sivut ja sähköinen tiedotus
 
-Osakunnan sähköistä tiedotusta hoitavat tietotekniikkasihteeri ja toiminnanjohtaja yhdessä.
+Osakunnan sähköistä tiedotusta hoitavat [tietotekniikkasihteeri](mailto:tietotekniikkasihteeri@savolainenosakunta.fi) ja [toiminnanjohtaja](mailto:toiminnanjohtaja@savolainenosakunta.fi) yhdessä.
 
-WWW-sivujen ylläpidosta huolehtii tietotekniikkasihteeri ja sähköpostilistoista toiminnanjohtaja.
+WWW-sivujen ylläpidosta huolehtii [tietotekniikkasihteeri](mailto:tietotekniikkasihteeri@savolainenosakunta.fi) ja sähköpostilistoista [toiminnanjohtaja](mailto:toiminnanjohtaja@savolainenosakunta.fi).
 
 ### Osakunnan asunnot
 
-Osakunnan asuntoihin liittyvät kysymykset ks. Asuntosihteerin yhteystiedot.
+Osakunnan asuntoihin liittyvät kysymykset voit tiedustella [asuntosihteeriltä](asuntosihteeri@savolainenosakunta.fi).

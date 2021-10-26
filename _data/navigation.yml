@@ -8,7 +8,9 @@
     - title: Säännöt
       url: /osakunta/saannot
     - title: Hallinto & virkojen kuvaukset
-      url: /osakunta/hallinto-ja-virkailijat
+      url: /osakunta/hallinto
+    - title: Virkailijat
+      url: /osakunta/virkailijat
     - title: Virkailijaohjesäänto
       url: /osakunta/virkailijaohjesaanto
     - title: Susj

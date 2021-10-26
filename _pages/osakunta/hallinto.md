@@ -19,7 +19,7 @@ Toimeenpanevana elimenä toimii osakuntaneuvosto eli osakunnan hallitus, joka ko
 
 Neuvostossa on kahdeksan äänivaltaista jäsentä: neljä neuvosta ja virkojensa puolesta kuraattori (puheenjohtaja), toiminnanjohtaja (puheenjohtajan sijainen), taloudenhoitaja ja sihteeri. Lisäksi äänivallattomina jäseninä istuvat isäntä, emäntä ja fuksimajuri. Tarpeen mukaan myös muut osakunnan jäsenet voivat osallistua neuvoston kokouksiin. Viiden osakuntaneuvoston jäsenen (ml. äänivallattomat) on oltava osakunnan varsinaisia jäseniä.
 
-Osakuntaneuvostoon voi ottaa yhteyttä joko henkilökohtaisesti johonkin sen jäseneen tai kirjoittamalla neuvoston sähköpostilistalle [savo-neuvosto(at)helsinki.fi](mailto:savo-neuvosto(at)helsinki.fi).
+Osakuntaneuvostoon voi ottaa yhteyttä joko henkilökohtaisesti johonkin sen jäseneen tai kirjoittamalla neuvoston sähköpostilistalle [neuvosto@savolainenosakunta.fi](mailto:neuvosto@savolainenosakunta.fi).
 
 Neuvoston toimintaa säätelevät [osakunnan sääntöjen](/osakunta/saannot) pykälät 15, 18, 20, 21, 32, 33, 34, 35, 36, 37, 38, 39, 40, 46, 49, 51, 57, 60, 61, 62, 63, 71, 72 ja 82.
 Ohjesäännöissä neuvostoa koskevat pykälät A1, A5, A7, A25, A26, A27, B1, B2, B3, B5, B6 ja B7.
@@ -28,5 +28,5 @@ Ohjesäännöissä neuvostoa koskevat pykälät A1, A5, A7, A25, A26, A27, B1, B
 
 TODO: CONTENT
 
-* [Viranhaltijat 2021](/osakunta/viranhaltijat)
+* [Viranhaltijat 2021](/osakunta/virkailijat)
 * [Virkailijaohjesääntö](/osakunta/virkailijaohjesaanto)

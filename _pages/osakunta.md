@@ -11,10 +11,10 @@ TODO: write content.
 Content links:
 
 - [Historia](/osakunta/historia)
-- [Tunnukset](/osakunta/tunnukset)
+- [Hallinto & virkojen kuvaukset](/osakunta/hallinto)
 - [Säännöt](/osakunta/saannot)
-- [Hallinto & virkojen kuvaukset](/osakunta/hallinto-ja-virkailijat)
-- [Virkailijaohjesäännöt](/osakunta/virkailijaohjesaanto)
+- [Tunnukset](/osakunta/tunnukset)
+<!-- - [Virkailijat](/osakunta/virkailijat) -->
 - [Susj](/osakunta/susj)
 - [Savo-shop](/osakunta/savo-shop)
 - [Ystävyysjärjestöt](/osakunta/ystavyysjarjestot)
