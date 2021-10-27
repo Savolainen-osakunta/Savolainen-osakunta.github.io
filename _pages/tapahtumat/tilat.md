@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tilat
+tags: info
+permalink: /tapahtumat/tilat
 ---
 
 ## Tilat
@@ -13,4 +15,4 @@ Kesästä 2010 alkaen Savolainen osakunta on jakanut tilat yhdessä Varsinaissuo
 
 Vinnillä majailevat myös Osakuntien Yhteisvaltuuskunta ry, HYYn Osakuntalainen Unioni ry ja Opiskelijakansantanssijat ry.
 
-![Vinnin pohjapiirrustus](images/pohjapiirros.gif)
+![Vinnin pohjapiirrustus](/assets/images/pohjapiirros.gif)

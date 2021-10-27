@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Asunnot
+title: Tapahtumat
 ---
 
 ## Tapahtumat
@@ -12,6 +12,10 @@ Ei oo vielä :(
 - [Kokoukset](/tapahtumat/kokoukset)
 - [Tilat](/tapahtumat/tilat)
 - [Turvallisemman tilan periaatteet](/tapahtumat/TTIP)
+
+### Tulevat tapahtumat
+
+{% include tapahtumat.html %}
 
 ### Tilakalenteri
 

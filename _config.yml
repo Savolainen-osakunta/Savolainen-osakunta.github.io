@@ -11,6 +11,7 @@ collections:
     permalink: /:path
 
 permalink: pretty
+future: true
 
 exclude:
 - 'node_modules'

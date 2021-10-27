@@ -1,0 +1,18 @@
+
+<p>
+    {% assign filtered_events = site.categories.tapahtumat | where_exp: "event", "event.date >= site.time" %}
+    
+    {% if filtered_events == nil %}
+        Ei ole tulevia tapahtumia :(
+    {% else %}
+        {% assign sorted_events = filtered_events | sort: 'event_date' | reverse %}
+        <ul>
+            {% for event in sorted_events %}
+            <li>{{ event.date | date: "%d.%-m.%Y klo %R" }}
+                <a href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</p>
+
