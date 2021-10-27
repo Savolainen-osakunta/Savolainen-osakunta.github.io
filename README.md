@@ -21,3 +21,6 @@ Alternatively:
 ## Contributing
 
 Add/modify content under the `_pages` directory.
+News (or 'Tiedotteet') are added/modified under `tiedotteet`, and events (or 'Tapahtumat') are added/modified under `tapahtumat`.
+Note, that there are multiple categories under the `tapahtumat` folder.
+Each new category needs to have the `_posts` directory below it for the posts to appear.
